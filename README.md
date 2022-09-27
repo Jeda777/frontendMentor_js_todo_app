@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-i74021jQqz)
+- [Live Site](https://jeda777.github.io/todo_app_vanillaJS/)
 
 ## Built with
 
