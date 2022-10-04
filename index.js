@@ -93,9 +93,6 @@ function handleDragStart(e) {
     e.dataTransfer.setData('text/html', this.outerHTML)
     this.classList.add('dragging');
 }
-function handleDragEnter(e) {
-
-}
 function handleDragOver(e) {
     e.preventDefault()
     this.classList.add('over')
@@ -135,7 +132,6 @@ function handleDragEnd() {
 }
 function addHandlers(li) {
     li.addEventListener('dragstart', handleDragStart, false)
-    li.addEventListener('dragenter', handleDragEnter, false)
     li.addEventListener('dragover', handleDragOver, false)
     li.addEventListener('dragleave', handleDragLeave, false)
     li.addEventListener('drop', handleDrop, false)
