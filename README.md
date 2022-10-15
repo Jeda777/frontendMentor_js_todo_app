@@ -1,6 +1,6 @@
 # Frontend Mentor - Todo app solution
 
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-i74021jQqz)
-- [Live Site](https://jeda777.github.io/todo_app_vanillaJS/)
+- [Live Site](https://jeda777.github.io/todo-app-vanillaJS/)
 
 ## Built with
 
@@ -49,4 +49,3 @@ Users should be able to:
 
 - Website - [Jakub Jeda](https://github.com/Jeda777)
 - Frontend Mentor - [@Jeda777](https://www.frontendmentor.io/profile/Jeda777)
-
